@@ -16,4 +16,4 @@ de tecnologia.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossaraiva195&theme=transparent&bg_color=0E76A8&border_color=000&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcossaraiva195&repo=dio-lab-open-source&bg_color=0E76A8&border_color=000&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/octoeli/dio-lab-open-source)
+
