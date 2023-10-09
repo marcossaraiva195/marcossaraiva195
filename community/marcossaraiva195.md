@@ -3,6 +3,7 @@ Olá! Eu sou o marcossaraiva sou formado em tecnologo analise e desenvolvimento 
 de tecnologia.
 
 ## Conecte-se comigo
+[![DIO](https://img.shields.io/badge/DIO-FFF?style=for-the-badge&logo=dio&logoColor=000)](https://www.dio.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/marcossaraiva195)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=000)](www.linkedin.com/in/marcos-saraiva-20aa85150/)
 
@@ -13,10 +14,11 @@ de tecnologia.
 ![Markdown](https://img.shields.io/badge/Markdown-FFF?style=for-the-badge&logo=markdown)
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/C%23-FFF?style=for-the-badge&logo=c-sharp&logoColor=0E76A8)
+![HTML5](https://img.shields.io/badge/HTML-FFF?style=for-the-badge&logo=html5&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossaraiva195&theme=transparent&bg_color=FFF&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=000&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossaraiva195&theme=transparent&bg_color=fff&border_color=fff&show_icons=true&icon_color=fff&title_color=0E76A8&text_color=000)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
