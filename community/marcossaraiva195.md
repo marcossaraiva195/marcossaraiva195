@@ -3,7 +3,7 @@ Olá! Eu sou o marcossaraiva sou formado em tecnologo analise e desenvolvimento 
 de tecnologia.
 
 ## Conecte-se comigo
-[![DIO](https://img.shields.io/badge/DIO-FFF?style=for-the-badge&logo=dio&logoColor=000)](https://www.dio.me/)
+[![DIO](https://img.shields.io/badge/DIO-FFF?style=for-the-badge&logo=dio&logoColor=000)](https://www.dio.me/users/marcos_saraiva95)
 [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/marcossaraiva195)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=000)](www.linkedin.com/in/marcos-saraiva-20aa85150/)
 
@@ -20,5 +20,6 @@ de tecnologia.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossaraiva195&theme=transparent&bg_color=fff&border_color=fff&show_icons=true&icon_color=fff&title_color=0E76A8&text_color=000)
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+## Meus obejtivos
+Concluir o curso Santander Bootcamp 2023 - Backend Java e seguir carreira backend
+
