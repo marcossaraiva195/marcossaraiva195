@@ -1,5 +1,5 @@
 # marcossaraiva195
-Olá! Eu sou o marcossaraiva sou formado em tecnologo analise e desenvolvimento de sistemas, estou aprimoramdo no curso pela [Digital Innovation One](https://www.dio.me/) para me desenvolver na area
+Olá! Eu sou o Marcos, formado em tecnologo analise e desenvolvimento de sistemas, estou aprimorando no curso pela [Digital Innovation One](https://www.dio.me/) para me desenvolver na área
 de tecnologia.
 
 ## Conecte-se comigo
